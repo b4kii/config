@@ -10,8 +10,11 @@ export NVM_DIR="$HOME/.nvm"
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 #ZSH_THEME="robbyrussell"
+#ZSH_THEME="aussiegeek"
+#ZSH_THEME="bira"
+ZSH_THEME="candy"
 #ZSH_THEME="fino-time"
-ZSH_THEME="jonathan"
+#ZSH_THEME="jonathan"
 #ZSH_THEME="clean"
 #ZSH_THEME="candy"
 
